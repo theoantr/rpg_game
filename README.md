@@ -26,7 +26,7 @@ pip install colorama
 ```
 3. Run the game:
 ```bash
-python tiny_rpg.py
+python rpg_game.py
 ```
 
 ## 🎮 How to Play
