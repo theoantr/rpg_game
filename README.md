@@ -23,11 +23,11 @@ git clone https://github.com/theoantr/rpg_game.git
 cd rpg_game
 ```
 Install dependencies:
-bash
+```bash
 pip install colorama
 ```
 Run the game:
-bash
+```bash
 python tiny_rpg.py
 ```
 
