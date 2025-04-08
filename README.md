@@ -21,17 +21,16 @@ A simple yet engaging text-based RPG game built with Python.
 ```bash
 git clone https://github.com/theoantr/rpg_game.git
 cd rpg_game
+```
 Install dependencies:
-
 bash
-Copy
 pip install colorama
-Run the game:python tiny_rpg.py
+```
+Run the game:
+bash
+python tiny_rpg.py
 ```
 
-bash
-Copy
-python rpg.py
 How to Play
 Venture: Fight random monsters in the wild
 
