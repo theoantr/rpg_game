@@ -1,7 +1,5 @@
 # Tiny RPG - A Python Text Adventure Game
 
-![Game Banner](https://via.placeholder.com/800x200?text=Tiny+RPG+Adventure) *(Consider adding an actual screenshot later)*
-
 A simple yet engaging text-based RPG game built with Python.
 
 ## Features
