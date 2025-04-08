@@ -26,7 +26,8 @@ Install dependencies:
 bash
 Copy
 pip install colorama
-Run the game:
+Run the game:python tiny_rpg.py
+'''
 
 bash
 Copy
