@@ -22,27 +22,27 @@ A simple yet engaging text-based RPG game built with Python.
 git clone https://github.com/theoantr/rpg_game.git
 cd rpg_game
 ```
-Install dependencies:
+2. Install dependencies:
 ```bash
 pip install colorama
 ```
-Run the game:
+3. Run the game:
 ```bash
 python tiny_rpg.py
 ```
 
-How to Play
+## How to Play
 Venture: Fight random monsters in the wild
 
-Shop: Buy items and upgrades
+# Shop: Buy items and upgrades
 
-Dungeon: Challenge increasingly difficult floors
+# Dungeon: Challenge increasingly difficult floors
 
-Status: Check your character's stats
+# Status: Check your character's stats
 
-Quit: Exit the game
+# Quit: Exit the game
 
-Controls
+## Controls
 (A)ttack or (R)un during battles
 
 Number keys to select shop items
@@ -57,12 +57,3 @@ More enemy types and items
 Quest system
 
 Graphical interface
-
-Screenshots
-(Add some screenshots of your game in action once you have them)
-
-Contributing
-Pull requests are welcome! For major changes, please open an issue first.
-
-License
-MIT
